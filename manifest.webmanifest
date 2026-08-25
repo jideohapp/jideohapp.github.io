@@ -1,0 +1,11 @@
+{
+  "name": "記得歐",
+  "short_name": "記得歐",
+  "description": "生活物品、位置與期限提醒工具",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#dceff0",
+  "icons": [{"src": "assets/app_icon.png", "sizes": "1024x1024", "type": "image/png"}]
+}
